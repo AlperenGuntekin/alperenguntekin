@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alperen Güntekin</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlperenGuntekin&label=Profile%20views&color=0e75b6&style=flat" alt="AlperenGuntekin" />
@@ -7,9 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/AlperenGuntekin"><img src="https://img.shields.io/github/followers/AlperenGuntekin?label=Follow&style=social" alt="GitHub Follow"></a>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/AlperenGuntekin"><img src="https://img.shields.io/twitter/follow/AlperenGuntekin?style=social" alt="Twitter Follow"></a>
 </p>
 
@@ -17,22 +14,22 @@
 
 ### 🙋‍♂️ About Me
 
-I'm Alperen from Turkey, and I create content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI/UX, and design in general.
+Hey! I'm Alperen from Turkey. I create content on Design and Development, and I'm passionate about learning new languages and frameworks. Lately, I've been diving into TypeScript, Electron, Node.js, React, MongoDB, and Tailwind CSS. I also have a deep love for wireframing, UI/UX, and design in general. Whether it's crafting seamless user interfaces or exploring the latest in web technologies, I'm always eager to learn and grow.
 
 - 🌱 I’m currently learning **React Native**
-- 💬 Ask me about anything on **[Telegram](https://t.me/AlperenGuntekin)**
-- 📫 How to reach me: **alperenguntekin@hotmail.com**
+- 💬 Feel free to ask me anything on **[Telegram](https://t.me/AlperenGuntekin)**
+- 📫 You can reach me at **alperenguntekin@hotmail.com**
 - 📝 Check out my articles on **[Medium](https://medium.com/@alperenguntekin)**
 
 ### 🛠 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
 </p>
 
 ### 📊 GitHub Stats:
