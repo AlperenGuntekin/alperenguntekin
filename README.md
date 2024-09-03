@@ -14,9 +14,9 @@
 
 ### 🙋‍♂️ About Me
 
-Hey! I'm Alperen from Turkey. I create content on Design and Development, and I'm passionate about learning new languages and frameworks. Lately, I've been diving into TypeScript, Electron, Node.js, React, MongoDB, and Tailwind CSS. I also have a deep love for wireframing, UI/UX, and design in general. Whether it's crafting seamless user interfaces or exploring the latest in web technologies, I'm always eager to learn and grow.
+Hey! I'm Alperen from Turkey. I create content on Design and Development, and I'm passionate about learning new languages and frameworks. Lately, I've been diving into TypeScript, Express.js, Node.js, React, React Native, MongoDB, and Tailwind CSS. I also have a deep love for wireframing, UI/UX, and design in general. Whether it's crafting seamless user interfaces or exploring the latest in web technologies, I'm always eager to learn and grow.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Electron**
 - 💬 Feel free to ask me anything on **[Telegram](https://t.me/AlperenGuntekin)**
 - 📫 You can reach me at **alperenguntekin@hotmail.com**
 - 📝 Check out my articles on **[Medium](https://medium.com/@alperenguntekin)**
