@@ -14,7 +14,7 @@
 
 ### 🙋‍♂️ About Me
 
-Hey! I'm Alperen, a passionate **Software Engineer** from **Turkey**. I specialize in creating seamless user experiences and building modern web applications. My journey involves exploring the latest technologies, designing intuitive interfaces, and continuously improving my skills.
+Hey! I'm Alperen, a passionate **Software Engineer**. I specialize in creating seamless user experiences and building modern web applications. My journey involves exploring the latest technologies, designing intuitive interfaces, and continuously improving my skills.
 
 - 🌱 I’m currently diving deep into **Electron** for building cross-platform desktop apps.
 - 💬 Ask me about **React**, **TypeScript**, **Node.js**, or anything related to **UI/UX design**.
@@ -58,10 +58,6 @@ Here’s a snapshot of my GitHub activity:
   <img src="https://github-readme-stats.vercel.app/api?username=AlperenGuntekin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperenGuntekin&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
 ---
 
 ### 🤝 Let’s Connect
@@ -88,7 +84,3 @@ Feel free to reach out to me on these platforms:
 ### 🌟 Support My Work
 
 If you find my projects interesting or helpful, please consider giving them a ⭐ on GitHub. Your support motivates me to keep creating!
-
----
-
-<p align="center">Made with ❤️ by <a href="https://github.com/AlperenGuntekin" target="_blank">Alperen Güntekin</a></p>
