@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alperen Güntekin</h1>
-<h3 align="center">Frontend Engineer | UI/UX Enthusiast</h3>
+<h3 align="center">Software Engineer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlperenGuntekin&label=Profile%20views&color=0e75b6&style=flat" alt="AlperenGuntekin" />
@@ -14,7 +14,7 @@
 
 ### 🙋‍♂️ About Me
 
-Hey! I'm Alperen, a passionate **Frontend Engineer** from **Turkey**. I specialize in creating seamless user experiences and building modern web applications. My journey involves exploring the latest technologies, designing intuitive interfaces, and continuously improving my skills.
+Hey! I'm Alperen, a passionate **Software Engineer** from **Turkey**. I specialize in creating seamless user experiences and building modern web applications. My journey involves exploring the latest technologies, designing intuitive interfaces, and continuously improving my skills.
 
 - 🌱 I’m currently diving deep into **Electron** for building cross-platform desktop apps.
 - 💬 Ask me about **React**, **TypeScript**, **Node.js**, or anything related to **UI/UX design**.
@@ -55,7 +55,11 @@ Here are the tools and technologies I work with:
 Here’s a snapshot of my GitHub activity:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperenGuntekin&theme=dark" alt="AlperenGuntekin's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlperenGuntekin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperenGuntekin&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
