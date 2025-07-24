@@ -16,7 +16,6 @@
 
 Hey! I'm Alperen, a passionate **Software Engineer**. I specialize in creating seamless user experiences and building modern web applications. My journey involves exploring the latest technologies, designing intuitive interfaces, and continuously improving my skills.
 
-- 🌱 I’m currently diving deep into **Electron** for building cross-platform desktop apps.
 - 💬 Ask me about **React**, **TypeScript**, **Node.js**, or anything related to **UI/UX design**.
 - 📫 Reach me at **alperenguntekin@hotmail.com** or connect with me on **[Telegram](https://t.me/AlperenGuntekin)**.
 - 📝 I share my insights and tutorials on **[Medium](https://medium.com/@alperenguntekin)**.
